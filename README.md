@@ -8,3 +8,6 @@ PROJECT SCOPE
 
 The scope of this project is to understand the theory of statistical methods from this course and beyond and to implement using a machine learning language like in Python and SAS. Imputation techniques, Multiple Linear Regression and advanced regression techniques such as Lasso and Ridge regressions are used within this report. The dataset consists of essential factors that affect customers decisions directly or indirectly when purchasing a house and this project aims to predict final prices for houses in Ames, Iowa.
 
+DATASET: 
+https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+
